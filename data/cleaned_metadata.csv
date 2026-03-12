@@ -1,4 +1,5 @@
 video_id,title,published_date,year,month,title_length
+KGVpKPNUdzA,Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE,2026-02-25,2026,2,60
 YFjfBk8HI5o,OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491,2026-02-12,2026,2,99
 EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",2026-01-31,2026,1,100
 Z-FRe5AKmCU,Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489,2026-01-13,2026,1,80
@@ -99,6 +100,11 @@ T3FC7qIAGZk,Andrew Bustamante: CIA Spy | Lex Fridman Podcast #310,2022-08-08,202
 I845O57ZSy4,"John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets | Lex Fridman Podcast #309",2022-08-04,2022,8,100
 qLDp-aYnR1Y,"Ryan Graves: UFOs, Fighter Jets, and Aliens | Lex Fridman Podcast #308",2022-08-01,2022,8,70
 VBPTFlpv31k,"Brian Armstrong: Coinbase, Cryptocurrency, and Government Regulation | Lex Fridman Podcast #307",2022-07-29,2022,7,95
+aGBLRlLe7X8,Oriol Vinyals: Deep Learning and Artificial General Intelligence | Lex Fridman Podcast #306,2022-07-26,2022,7,91
+WgytXF0SPh0,Bishop Robert Barron: Christianity and the Catholic Church | Lex Fridman Podcast #304,2022-07-20,2022,7,85
+1XGiTDWfdpM,"Steve Keen: Marxism, Capitalism, and Economics | Lex Fridman Podcast #303",2022-07-17,2022,7,73
+hppbxV9C63g,"Richard Haier: IQ Tests, Human Intelligence, and Group Differences | Lex Fridman Podcast #302",2022-07-14,2022,7,93
+dSVLjAdo8UA,Jack Barsky: KGB Spy | Lex Fridman Podcast #301,2022-07-09,2022,7,47
 gk4tEO4jDUM,"Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom | Lex Fridman Podcast #300",2022-07-04,2022,7,96
 o0Bi-q89j5Y,Richard Wolff: Marxism and Communism | Lex Fridman Podcast #295,2022-06-17,2022,6,63
 reYdQYZ9Rj4,Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth | Lex Fridman Podcast #293,2022-06-12,2022,6,95
@@ -193,17 +199,6 @@ _TTNGq9djU4,"Simon Sinek: Leadership, Hard Work, Optimism and the Infinite Game 
 mKtsM2vv0DA,Who is Satoshi Nakamoto? (Vitalik Buterin) | AI Podcast Clips,2020-03-18,2020,3,61
 DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast #76,2020-02-29,2020,2,82
 1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,2020-02-21,2020,2,72
-bQa7hpUpMzM,"Vladimir Vapnik: Predicates, Invariants, and the Essence of Intelligence | Lex Fridman Podcast #71",2020-02-14,2020,2,98
-Nb2tebYAaOA,"Jim Keller: Moore&#39;s Law, Microprocessors, and First Principles | Lex Fridman Podcast #70",2020-02-05,2020,2,92
-OJQepiqSWvg,"Paul Krugman: Economics of Innovation, Automation, Safety Nets &amp; UBI | Lex Fridman Podcast #67",2020-01-21,2020,1,98
-v2eul2PIFpY,Daniel Kahneman: Deep Learning (System 1 and System 2) | AI Podcast Clips,2020-01-16,2020,1,73
-ao3UoceiL2w,Lex Fridman: Recipe for Progress in AI (Hard Work),2020-01-13,2020,1,50
-ImKkaeUx1MU,"Melanie Mitchell: Concepts, Analogies, Common Sense &amp; Future of AI | Lex Fridman Podcast #61",2019-12-28,2019,12,96
-OE0GjS16jyU,Jim Gates: What is Supersymmetry? | AI Podcast Clips,2019-12-26,2019,12,52
-b2bE4zFTvnU,Vsauce: Mortality and the Meaning of Life | AI Podcast Clip with Michael Stevens,2019-12-23,2019,12,80
-kNqI-PWJsX4,Vsauce: Elon Musk and the Responsibility of a Large Following | AI Podcast Clip with Michael Stevens,2019-12-22,2019,12,100
-BkhIenG0wgk,Vsauce: Consciousness | AI Podcast Clip with Michael Stevens,2019-12-19,2019,12,60
-asAveTK0piw,Ray Dalio: Is Credit Good for Society? | AI Podcast Clips,2019-12-09,2019,12,57
 9mL26U3GGcc,Ray Dalio: Work-Life Balance and the Arc of Life | AI Podcast Clips,2019-12-08,2019,12,67
 _tg9F5_P3CY,Ray Dalio: Idea Meritocracy | AI Podcast Clips,2019-12-06,2019,12,46
 0-3kw5BEKB8,"Whitney Cummings: Comedy, Robotics, Neurology, and Love | Lex Fridman Podcast #55",2019-12-05,2019,12,81
@@ -229,43 +224,3 @@ uTxRF5ag27A,Bjarne Stroustrup: C++ | Lex Fridman Podcast #48,2019-11-07,2019,11,
 9GV4QmQWJGU,Sean Carroll: Hilbert Space and Infinity,2019-11-06,2019,11,40
 F0UjC6wfqmc,Sean Carroll: Perception vs Reality,2019-11-05,2019,11,35
 ZR3xQ7ouPew,Sean Carroll: Quantum Gravity | AI Podcast Clips,2019-11-02,2019,11,48
-xmahFBpHoHc,Sean Carroll: Difference Between Math and Physics | AI Podcast Clips,2019-11-02,2019,11,68
-bHPeGhbSVpw,Stuart Russell: The Control Problem of Super-Intelligent AI | AI Podcast Clips,2019-10-13,2019,10,78
-XHyASP49ses,"Jeremy Howard: Deep Learning Frameworks - TensorFlow, PyTorch, fast.ai | AI Podcast Clips",2019-10-06,2019,10,89
-vNOTDn3D_RI,Gary Marcus: Toward a Hybrid of Deep Learning and Symbolic AI | Lex Fridman Podcast #43,2019-10-03,2019,10,87
-6W0-rhAe2Uo,Leonard Susskind: Black Hole Image is Astonishing | AI Podcast Clips,2019-09-27,2019,9,68
-s78hvV3QLUE,"Leonard Susskind: Quantum Mechanics, String Theory and Black Holes | Lex Fridman Podcast #41",2019-09-26,2019,9,92
-j7gM19hphRk,"How to Build a Successful Robotics Company - Colin Angle, iRobot CEO | AI Podcast Clips",2019-09-24,2019,9,87
-rojCCjUC2GI,Roomba vs Autonomous Vehicles: Vision not Lidar is the Future for Robotics - iRobot CEO | AI Clip,2019-09-22,2019,9,97
-Ph1TMC9qZYA,Sean Carroll: Space Travel is Crucially Important Long-Term | AI Podcast Clips,2019-09-17,2019,9,78
-Bi7f1JSSlh8,Most Research in Deep Learning is a Total Waste of Time - Jeremy Howard | AI Podcast Clips,2019-09-10,2019,9,90
-JBSj5OP64LM,Elon Musk: Physics View of Love | AI Podcast Clips,2019-09-07,2019,9,50
-UQAHz_JoGJ0,Yann LeCun: Sophia and Does AI Need a Body? | AI Podcast Clips,2019-09-03,2019,9,62
-YAfwNEY826I,Yann LeCun: Can Neural Networks Reason? | AI Podcast Clips,2019-09-01,2019,9,58
-_SpptYg_0Rs,Are We Living in a Simulation? with George Hotz and Lex Fridman | AI Podcast Clips,2019-08-29,2019,8,82
-4CTDdxfSXF0,Deep Learning: Advice on Getting Started with fast.ai - Jeremy Howard | AI Podcast Clips,2019-08-28,2019,8,88
-dpqLy-3cHmc,"Elon Musk: It&#39;s Game, Set, Match - Tesla is Vastly Ahead of Everyone | AI Podcast Clips",2019-08-24,2019,8,91
-zhZXZ35lF7s,Competing with SpaceX: America Was Built on Competition - Lockheed Martin CTO | AI Podcast Clips,2019-08-22,2019,8,96
-PliUHKl5xA4,Sean Carroll: Understanding the Origin of Life is Within the Reach of Science | AI Podcast Clips,2019-08-21,2019,8,96
-f3nF7sq1gKE,Chris Urmson: Is Lidar a Crutch? | AI Podcast Clips,2019-08-17,2019,8,51
-YIVf3P3zq7g,Elon Musk: What&#39;s Outside the Simulation? | AI Podcast Clips,2019-08-16,2019,8,64
-v-9Mpe7NhkM,Gustav Soderstrom: Spotify | Lex Fridman Podcast #29,2019-07-29,2019,7,52
-q0mokx-iiws,Gavin Miller: Adobe Research | Lex Fridman Podcast #23,2019-06-10,2019,6,54
-Z6rxFNMGdn0,Ian Goodfellow: Generative Adversarial Networks (GANs) | Lex Fridman Podcast #19,2019-04-18,2019,4,80
-Er7Dy8rvqOc,"Leslie Kaelbling: Reinforcement Learning, Planning, and Robotics | Lex Fridman Podcast #15",2019-03-12,2019,3,90
--j0tc0Y1CIE,"Oliver Cameron (CEO, Voyage) - MIT Self-Driving Cars",2019-02-18,2019,2,52
-aSyZvBrPAyk,"Tomaso Poggio: Brains, Minds, and Machines | Lex Fridman Podcast #13",2019-01-19,2019,1,68
-53YvP6gdD7U,Deep Learning State of the Art (2019),2019-01-17,2019,1,37
-O5xeyoRL95U,Deep Learning Basics: Introduction and Overview,2019-01-11,2019,1,47
-ghwaIiE3Nd8,Guido van Rossum: Python | Lex Fridman Podcast #6,2018-11-22,2018,11,49
-Gi8LUnhP5yU,Max Tegmark: Life 3.0 | Lex Fridman Podcast #1,2018-04-19,2018,4,46
-bzn7YEvoUaU,MIT Advanced Vehicle Technology Study (MIT-AVT),2018-03-26,2018,3,47
-HKBhP9JISF0,"Sterling Anderson, Co-Founder, Aurora - MIT Self-Driving Cars",2018-03-14,2018,3,61
-P7kX7BuHSFI,Stephen Wolfram: Computational Universe | MIT 6.S099: Artificial General Intelligence (AGI),2018-03-02,2018,3,91
-_OCjqIgxwHw,MIT Self-Driving Cars (2018),2018-01-20,2018,1,28
--6INDaLcuJY,MIT 6.S094: Deep Learning,2018-01-15,2018,1,25
-11rsu_WwZTc,Foundations and Challenges of Deep Learning (Yoshua Bengio),2016-09-27,2016,9,59
-PtAIh9KSnjo,"Deep Reinforcement Learning (John Schulman, OpenAI)",2016-09-27,2016,9,51
-L1sHcj3qDNc,"Torch Tutorial (Alex Wiltschko, Twitter)",2016-09-27,2016,9,40
-rK6bchqeaN8,"Foundations of Unsupervised Deep Learning (Ruslan Salakhutdinov, CMU)",2016-09-27,2016,9,69
-zij_FTbJHsk,"Foundations of Deep Learning (Hugo Larochelle, Twitter)",2016-09-27,2016,9,55
