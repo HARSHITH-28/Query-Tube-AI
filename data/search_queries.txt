@@ -1,0 +1,75 @@
+What is machine learning?
+How does supervised learning work?
+What is unsupervised learning?
+What is reinforcement learning?
+What is overfitting in machine learning?
+How does gradient descent work?
+What is model generalization?
+What is feature engineering?
+What is cross validation?
+What is the bias variance tradeoff?
+What are neural networks?
+How does backpropagation work?
+What is deep learning?
+How do transformers work?
+What is attention in neural networks?
+What is a convolutional neural network?
+What are large language models?
+How do neural networks learn patterns?
+What is a feedforward network?
+What is a recurrent neural network?
+What is artificial general intelligence?
+What is AI alignment?
+What are the dangers of artificial intelligence?
+What is AI safety research?
+How will AI impact society?
+What are current AI research challenges?
+Can AI become conscious?
+What is the future of artificial intelligence?
+How do large AI models work?
+What are the limitations of AI systems?
+What is reinforcement learning?
+How do reinforcement learning agents learn?
+What is a reward function?
+What is policy optimization?
+What is Q learning?
+What is exploration vs exploitation?
+How does AlphaGo work?
+What is deep reinforcement learning?
+What are RL environments?
+What is policy gradient?
+How do robots learn from data?
+What is robot learning?
+How do autonomous robots work?
+What are humanoid robots?
+How does robot control work?
+What is robot perception?
+How do robots interact with humans?
+What are challenges in robotics?
+What is reinforcement learning in robotics?
+How do robots navigate environments?
+What is the best programming language for AI?
+How do compilers work?
+What is low level programming?
+What is systems programming?
+What is memory management in programming?
+What are distributed systems?
+What is parallel computing?
+What is GPU computing?
+What is the role of Linux in programming?
+What is software engineering best practice?
+What is consciousness?
+Can machines think?
+What is the philosophy of artificial intelligence?
+What is the meaning of intelligence?
+What is the nature of human cognition?
+What is the future of human civilization?
+What is the relationship between AI and humanity?
+What is the role of technology in society?
+What is scientific discovery?
+What is the role of mathematics in AI?
+How do language models understand text?
+What is the scaling law in AI?
+What are multimodal models?
+How does ChatGPT work?
+What is emergent behavior in AI?

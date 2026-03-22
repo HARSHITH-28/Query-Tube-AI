@@ -1,0 +1,376 @@
+query,rank,video_id,title,score
+What is machine learning?,1,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.5390881299972534
+What is machine learning?,2,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.40509843826293945
+What is machine learning?,3,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.4030383229255676
+What is machine learning?,4,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.3896382451057434
+What is machine learning?,5,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.38275033235549927
+How does supervised learning work?,1,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.37892720103263855
+How does supervised learning work?,2,6CTJMx64Vbw,Elon Musk: Understanding the Human Brain at Neuralink,0.34929585456848145
+How does supervised learning work?,3,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.3414723873138428
+How does supervised learning work?,4,3wMKoSRbGVs,Douglas Lenat: Cyc and the Quest to Solve Common Sense Reasoning in AI | Lex Fridman Podcast 221,0.3337486684322357
+How does supervised learning work?,5,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.3234899044036865
+What is unsupervised learning?,1,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.4060409665107727
+What is unsupervised learning?,2,tNZnLkRBYA8,"ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast 461",0.29887154698371887
+What is unsupervised learning?,3,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.2953466773033142
+What is unsupervised learning?,4,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.29220423102378845
+What is unsupervised learning?,5,k8Zomsf3uBI,You Are Your Own Existence Proof (Karl Friston) | AI Podcast Clips with Lex Fridman,0.2864232361316681
+What is reinforcement learning?,1,e77NkSjnyH4,"AlphaZero and Self Play (David Silver, DeepMind) | AI Podcast Clips",0.3731764256954193
+What is reinforcement learning?,2,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.36630457639694214
+What is reinforcement learning?,3,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.36321696639060974
+What is reinforcement learning?,4,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.3591908812522888
+What is reinforcement learning?,5,kxi-_TT_-Nc,Sergey Levine: Robotics and Machine Learning | Lex Fridman Podcast 108,0.3574218153953552
+What is overfitting in machine learning?,1,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.3939121961593628
+What is overfitting in machine learning?,2,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.34287017583847046
+What is overfitting in machine learning?,3,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.31606873869895935
+What is overfitting in machine learning?,4,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.2808026075363159
+What is overfitting in machine learning?,5,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.27503442764282227
+How does gradient descent work?,1,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.3139924108982086
+How does gradient descent work?,2,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.279620885848999
+How does gradient descent work?,3,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.2791251838207245
+How does gradient descent work?,4,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.26011931896209717
+How does gradient descent work?,5,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.2523585855960846
+What is model generalization?,1,k8Zomsf3uBI,You Are Your Own Existence Proof (Karl Friston) | AI Podcast Clips with Lex Fridman,0.33780303597450256
+What is model generalization?,2,vaFhEgLoUe0,Michael Kearns: Differential Privacy,0.26944589614868164
+What is model generalization?,3,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.26592668890953064
+What is model generalization?,4,YPe5OP7Clv4,Gilbert Strang: Singular Value Decomposition,0.24870166182518005
+What is model generalization?,5,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.23799297213554382
+What is feature engineering?,1,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.34737536311149597
+What is feature engineering?,2,tNZnLkRBYA8,"ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast 461",0.2793112099170685
+What is feature engineering?,3,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.27115580439567566
+What is feature engineering?,4,X0-SXS6zdEQ,"Peter Wang: Python and the Source Code of Humans, Computers, and Reality | Lex Fridman Podcast 250",0.26036226749420166
+What is feature engineering?,5,4AWLcxTGZPA,Kanye &39;Ye&39; West Interview | Lex Fridman Podcast 332,0.25207608938217163
+What is cross validation?,1,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.1633509397506714
+What is cross validation?,2,tNZnLkRBYA8,"ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast 461",0.1380738914012909
+What is cross validation?,3,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.13774879276752472
+What is cross validation?,4,vaFhEgLoUe0,Michael Kearns: Differential Privacy,0.13710466027259827
+What is cross validation?,5,wMavKrA-4do,Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast 373,0.12851282954216003
+What is the bias variance tradeoff?,1,qtOKrG_wK5A,"Shannon Curry: Johnny Depp &amp; Amber Heard Trial, Marriage, Dating &amp; Love | Lex Fridman Podcast 366",0.1610461175441742
+What is the bias variance tradeoff?,2,fUEjCXpOjPY,"James Sexton: Divorce Lawyer on Marriage, Relationships, Sex, Lies &amp; Love | Lex Fridman Podcast 396",0.15731152892112732
+What is the bias variance tradeoff?,3,tApj7Q37P2k,Ben Askren: Wrestling and MMA | Lex Fridman Podcast 242,0.14473430812358856
+What is the bias variance tradeoff?,4,4iuepdI3wCU,"Charan Ranganath: Human Memory, Imagination, Deja Vu, and False Memories | Lex Fridman Podcast 430",0.14021366834640503
+What is the bias variance tradeoff?,5,_tg9F5_P3CY,Ray Dalio: Idea Meritocracy | AI Podcast Clips,0.11670073866844177
+What are neural networks?,1,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.5366500020027161
+What are neural networks?,2,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.4827638566493988
+What are neural networks?,3,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.4480926990509033
+What are neural networks?,4,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.4227059483528137
+What are neural networks?,5,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.41804730892181396
+How does backpropagation work?,1,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.37714463472366333
+How does backpropagation work?,2,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.34108537435531616
+How does backpropagation work?,3,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.2700483798980713
+How does backpropagation work?,4,6CTJMx64Vbw,Elon Musk: Understanding the Human Brain at Neuralink,0.26012060046195984
+How does backpropagation work?,5,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.2597006857395172
+What is deep learning?,1,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.5719812512397766
+What is deep learning?,2,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.46096041798591614
+What is deep learning?,3,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.4398455023765564
+What is deep learning?,4,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.42828282713890076
+What is deep learning?,5,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.4111402928829193
+How do transformers work?,1,6CTJMx64Vbw,Elon Musk: Understanding the Human Brain at Neuralink,0.21806737780570984
+How do transformers work?,2,8EguLJgkc54,Chris Voss: FBI Hostage Negotiator | Lex Fridman Podcast 364,0.2078271508216858
+How do transformers work?,3,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.19848021864891052
+How do transformers work?,4,YDjOS0VHEr4,Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication | Lex Fridman Podcast 380,0.1763075590133667
+How do transformers work?,5,9V6tWC4CdFQ,Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast 471,0.17537420988082886
+What is attention in neural networks?,1,6CTJMx64Vbw,Elon Musk: Understanding the Human Brain at Neuralink,0.3974997401237488
+What is attention in neural networks?,2,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.373342365026474
+What is attention in neural networks?,3,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.34791308641433716
+What is attention in neural networks?,4,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.3361333906650543
+What is attention in neural networks?,5,aGBLRlLe7X8,Oriol Vinyals: Deep Learning and Artificial General Intelligence | Lex Fridman Podcast 306,0.2977706789970398
+What is a convolutional neural network?,1,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.40076178312301636
+What is a convolutional neural network?,2,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.3875478208065033
+What is a convolutional neural network?,3,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.3562867045402527
+What is a convolutional neural network?,4,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.3460414409637451
+What is a convolutional neural network?,5,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.29259008169174194
+What are large language models?,1,U5OD8MjYnOM,"Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI | Lex Fridman Podcast 215",0.33672571182250977
+What are large language models?,2,MRcrJHxhWMY,Noam Chomsky: Deepest Property of Language,0.31575530767440796
+What are large language models?,3,YDjOS0VHEr4,Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication | Lex Fridman Podcast 380,0.2922728657722473
+What are large language models?,4,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.2878418564796448
+What are large language models?,5,uTxRF5ag27A,Bjarne Stroustrup: C++ | Lex Fridman Podcast 48,0.28576338291168213
+How do neural networks learn patterns?,1,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.43663933873176575
+How do neural networks learn patterns?,2,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.4321640729904175
+How do neural networks learn patterns?,3,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.3992224931716919
+How do neural networks learn patterns?,4,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.3843647539615631
+How do neural networks learn patterns?,5,6CTJMx64Vbw,Elon Musk: Understanding the Human Brain at Neuralink,0.3660695552825928
+What is a feedforward network?,1,1YbcB6b4A2U,Bryan Johnson: Kernel Brain-Computer Interfaces | Lex Fridman Podcast 186,0.35366886854171753
+What is a feedforward network?,2,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.3442309498786926
+What is a feedforward network?,3,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.3100009858608246
+What is a feedforward network?,4,kxi-_TT_-Nc,Sergey Levine: Robotics and Machine Learning | Lex Fridman Podcast 108,0.29864153265953064
+What is a feedforward network?,5,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.29569876194000244
+What is a recurrent neural network?,1,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.3921038508415222
+What is a recurrent neural network?,2,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.3656456470489502
+What is a recurrent neural network?,3,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.2872307300567627
+What is a recurrent neural network?,4,aGBLRlLe7X8,Oriol Vinyals: Deep Learning and Artificial General Intelligence | Lex Fridman Podcast 306,0.2868887782096863
+What is a recurrent neural network?,5,Kbk9BiPhm7o,Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast 438,0.27746719121932983
+What is artificial general intelligence?,1,3wMKoSRbGVs,Douglas Lenat: Cyc and the Quest to Solve Common Sense Reasoning in AI | Lex Fridman Podcast 221,0.49985504150390625
+What is artificial general intelligence?,2,PdE-waSx-d8,"Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast 376",0.4432191848754883
+What is artificial general intelligence?,3,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.44200387597084045
+What is artificial general intelligence?,4,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.43754005432128906
+What is artificial general intelligence?,5,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.4285389184951782
+What is AI alignment?,1,wMavKrA-4do,Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast 373,0.4740700125694275
+What is AI alignment?,2,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.4506164789199829
+What is AI alignment?,3,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.40734124183654785
+What is AI alignment?,4,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.3893679082393646
+What is AI alignment?,5,oFfVt3S51T4,Cursor Team: Future of Programming with AI | Lex Fridman Podcast 447,0.3845916986465454
+What are the dangers of artificial intelligence?,1,NNr6gPelJ3E,Roman Yampolskiy: Dangers of Superintelligent AI | Lex Fridman Podcast 431,0.560144305229187
+What are the dangers of artificial intelligence?,2,5t1vTLU7s40,"Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast 416",0.5588078498840332
+What are the dangers of artificial intelligence?,3,PdE-waSx-d8,"Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast 376",0.48255401849746704
+What are the dangers of artificial intelligence?,4,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.44995731115341187
+What are the dangers of artificial intelligence?,5,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.43275266885757446
+What is AI safety research?,1,wMavKrA-4do,Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast 373,0.5151124000549316
+What is AI safety research?,2,PdE-waSx-d8,"Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast 376",0.5135751962661743
+What is AI safety research?,3,5t1vTLU7s40,"Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast 416",0.5093353390693665
+What is AI safety research?,4,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.484391450881958
+What is AI safety research?,5,NNr6gPelJ3E,Roman Yampolskiy: Dangers of Superintelligent AI | Lex Fridman Podcast 431,0.4534882605075836
+How will AI impact society?,1,5t1vTLU7s40,"Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast 416",0.5842954516410828
+How will AI impact society?,2,M95m2EFb7IQ,"Ray Dalio: Principles, the Economic Machine, AI &amp; the Arc of Life | Lex Fridman Podcast 54",0.5033108592033386
+How will AI impact society?,3,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.4909372925758362
+How will AI impact society?,4,ugvHCXCOmm4,"Dario Amodei: Anthropic CEO on Claude, AGI &amp; the Future of AI &amp; Humanity | Lex Fridman Podcast 452",0.48714613914489746
+How will AI impact society?,5,nXwpiPybr0Q,Jack Dorsey: Yang Gang Forever | AI Podcast Clips,0.48444923758506775
+What are current AI research challenges?,1,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.5469393134117126
+What are current AI research challenges?,2,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.49977266788482666
+What are current AI research challenges?,3,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.4986122250556946
+What are current AI research challenges?,4,U5OD8MjYnOM,"Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI | Lex Fridman Podcast 215",0.47697824239730835
+What are current AI research challenges?,5,PdE-waSx-d8,"Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast 376",0.47335973381996155
+Can AI become conscious?,1,BCdV6BMMpOo,"Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind | Lex Fridman Podcast 261",0.507433295249939
+Can AI become conscious?,2,6ePR2TWYVkI,Lex Fridman: Ask Me Anything - AMA January 2021 | Lex Fridman Podcast,0.5030893087387085
+Can AI become conscious?,3,1YbcB6b4A2U,Bryan Johnson: Kernel Brain-Computer Interfaces | Lex Fridman Podcast 186,0.41293132305145264
+Can AI become conscious?,4,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.4088609218597412
+Can AI become conscious?,5,wMavKrA-4do,Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast 373,0.39441174268722534
+What is the future of artificial intelligence?,1,ugvHCXCOmm4,"Dario Amodei: Anthropic CEO on Claude, AGI &amp; the Future of AI &amp; Humanity | Lex Fridman Podcast 452",0.5872200727462769
+What is the future of artificial intelligence?,2,UbOjufRmpq4,Advice for beginner programmers,0.5467970967292786
+What is the future of artificial intelligence?,3,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.5071220397949219
+What is the future of artificial intelligence?,4,aGBLRlLe7X8,Oriol Vinyals: Deep Learning and Artificial General Intelligence | Lex Fridman Podcast 306,0.4971616566181183
+What is the future of artificial intelligence?,5,5t1vTLU7s40,"Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast 416",0.49365225434303284
+How do large AI models work?,1,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.4628967046737671
+How do large AI models work?,2,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.44601204991340637
+How do large AI models work?,3,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.4451512098312378
+How do large AI models work?,4,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.4298919439315796
+How do large AI models work?,5,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.4224579930305481
+What are the limitations of AI systems?,1,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.5520057082176208
+What are the limitations of AI systems?,2,PdE-waSx-d8,"Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast 376",0.510343074798584
+What are the limitations of AI systems?,3,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.47721773386001587
+What are the limitations of AI systems?,4,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.4723525643348694
+What are the limitations of AI systems?,5,5t1vTLU7s40,"Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast 416",0.461381733417511
+What is reinforcement learning?,1,e77NkSjnyH4,"AlphaZero and Self Play (David Silver, DeepMind) | AI Podcast Clips",0.3731764256954193
+What is reinforcement learning?,2,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.36630457639694214
+What is reinforcement learning?,3,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.36321696639060974
+What is reinforcement learning?,4,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.3591908812522888
+What is reinforcement learning?,5,kxi-_TT_-Nc,Sergey Levine: Robotics and Machine Learning | Lex Fridman Podcast 108,0.3574218153953552
+How do reinforcement learning agents learn?,1,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.42830631136894226
+How do reinforcement learning agents learn?,2,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.4227146506309509
+How do reinforcement learning agents learn?,3,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.4180923104286194
+How do reinforcement learning agents learn?,4,e77NkSjnyH4,"AlphaZero and Self Play (David Silver, DeepMind) | AI Podcast Clips",0.4103347063064575
+How do reinforcement learning agents learn?,5,YFjfBk8HI5o,OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast 491,0.3602537512779236
+What is a reward function?,1,kxi-_TT_-Nc,Sergey Levine: Robotics and Machine Learning | Lex Fridman Podcast 108,0.2538423240184784
+What is a reward function?,2,tNZnLkRBYA8,"ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast 461",0.2411106824874878
+What is a reward function?,3,8mixT5_U0hk,Happiness is a cookie that your brain bakes for itself (Joscha Bach) | AI Podcast Clips,0.2340884804725647
+What is a reward function?,4,A22Ej6kb2wo,"Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch | Lex Fridman Podcast 114",0.19037140905857086
+What is a reward function?,5,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.18256554007530212
+What is policy optimization?,1,k8Zomsf3uBI,You Are Your Own Existence Proof (Karl Friston) | AI Podcast Clips with Lex Fridman,0.31429481506347656
+What is policy optimization?,2,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.2968440651893616
+What is policy optimization?,3,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.2614859342575073
+What is policy optimization?,4,DTPSeeKokdo,"Ezra Klein and Derek Thompson: Politics, Trump, AOC, Elon &amp; DOGE | Lex Fridman Podcast 462",0.26112866401672363
+What is policy optimization?,5,e77NkSjnyH4,"AlphaZero and Self Play (David Silver, DeepMind) | AI Podcast Clips",0.2491874098777771
+What is Q learning?,1,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.35608208179473877
+What is Q learning?,2,kxi-_TT_-Nc,Sergey Levine: Robotics and Machine Learning | Lex Fridman Podcast 108,0.34449324011802673
+What is Q learning?,3,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.3415057063102722
+What is Q learning?,4,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.3190254271030426
+What is Q learning?,5,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.31189262866973877
+What is exploration vs exploitation?,1,8EguLJgkc54,Chris Voss: FBI Hostage Negotiator | Lex Fridman Podcast 364,0.3067624568939209
+What is exploration vs exploitation?,2,e77NkSjnyH4,"AlphaZero and Self Play (David Silver, DeepMind) | AI Podcast Clips",0.3056678771972656
+What is exploration vs exploitation?,3,s1oTH4Sjvzg,"Vejas Liulevicius: Communism, Marxism, Nazism, Stalin, Mao, and Hitler | Lex Fridman Podcast 444",0.29737788438796997
+What is exploration vs exploitation?,4,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.2940881848335266
+What is exploration vs exploitation?,5,MRcrJHxhWMY,Noam Chomsky: Deepest Property of Language,0.28450632095336914
+How does AlphaGo work?,1,e77NkSjnyH4,"AlphaZero and Self Play (David Silver, DeepMind) | AI Podcast Clips",0.3201269805431366
+How does AlphaGo work?,2,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.2192872166633606
+How does AlphaGo work?,3,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.17898312211036682
+How does AlphaGo work?,4,J48bm21q8_A,Barry Barish: Gravitational Waves and the Most Precise Device Ever Built | Lex Fridman Podcast 213,0.1776798516511917
+How does AlphaGo work?,5,kxi-_TT_-Nc,Sergey Levine: Robotics and Machine Learning | Lex Fridman Podcast 108,0.1769765466451645
+What is deep reinforcement learning?,1,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.425296425819397
+What is deep reinforcement learning?,2,kxi-_TT_-Nc,Sergey Levine: Robotics and Machine Learning | Lex Fridman Podcast 108,0.4201202690601349
+What is deep reinforcement learning?,3,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.4169154465198517
+What is deep reinforcement learning?,4,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.40905386209487915
+What is deep reinforcement learning?,5,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.4087209105491638
+What are RL environments?,1,k8Zomsf3uBI,You Are Your Own Existence Proof (Karl Friston) | AI Podcast Clips with Lex Fridman,0.2218109518289566
+What are RL environments?,2,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.2215641289949417
+What are RL environments?,3,pwN8u6HFH8U,"Paul Rosolie: Jungle, Apex Predators, Aliens, Uncontacted Tribes, and God | Lex Fridman Podcast 429",0.22112955152988434
+What are RL environments?,4,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.21631279587745667
+What are RL environments?,5,YDjOS0VHEr4,Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication | Lex Fridman Podcast 380,0.21475812792778015
+What is policy gradient?,1,kxi-_TT_-Nc,Sergey Levine: Robotics and Machine Learning | Lex Fridman Podcast 108,0.30588340759277344
+What is policy gradient?,2,k8Zomsf3uBI,You Are Your Own Existence Proof (Karl Friston) | AI Podcast Clips with Lex Fridman,0.3020898103713989
+What is policy gradient?,3,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.30118680000305176
+What is policy gradient?,4,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.2647530436515808
+What is policy gradient?,5,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.26094627380371094
+How do robots learn from data?,1,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.42449209094047546
+How do robots learn from data?,2,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.4110637903213501
+How do robots learn from data?,3,ZFntEFXKDHM,"Kate Darling: Social Robots, Ethics, Privacy and the Future of MIT | Lex Fridman Podcast 329",0.3961065411567688
+How do robots learn from data?,4,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.3909878134727478
+How do robots learn from data?,5,YFjfBk8HI5o,OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast 491,0.39040035009384155
+What is robot learning?,1,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.4587574601173401
+What is robot learning?,2,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.4521961212158203
+What is robot learning?,3,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.4442558288574219
+What is robot learning?,4,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.43573203682899475
+What is robot learning?,5,P6prRXkI5HM,Dmitri Dolgov: Waymo and the Future of Self-Driving Cars | Lex Fridman Podcast 147,0.4292643666267395
+How do autonomous robots work?,1,P6prRXkI5HM,Dmitri Dolgov: Waymo and the Future of Self-Driving Cars | Lex Fridman Podcast 147,0.44027918577194214
+How do autonomous robots work?,2,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.39047959446907043
+How do autonomous robots work?,3,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.38999485969543457
+How do autonomous robots work?,4,YFjfBk8HI5o,OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast 491,0.3582291007041931
+How do autonomous robots work?,5,A22Ej6kb2wo,"Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch | Lex Fridman Podcast 114",0.3552776277065277
+What are humanoid robots?,1,ZFntEFXKDHM,"Kate Darling: Social Robots, Ethics, Privacy and the Future of MIT | Lex Fridman Podcast 329",0.3791738748550415
+What are humanoid robots?,2,YFjfBk8HI5o,OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast 491,0.3241479992866516
+What are humanoid robots?,3,5VnbBCm_ZyQ,Marc Raibert: Boston Dynamics and the Future of Robotics | Lex Fridman Podcast 412,0.3031030297279358
+What are humanoid robots?,4,YDjOS0VHEr4,Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication | Lex Fridman Podcast 380,0.30123743414878845
+What are humanoid robots?,5,A22Ej6kb2wo,"Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch | Lex Fridman Podcast 114",0.2950938940048218
+How does robot control work?,1,A22Ej6kb2wo,"Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch | Lex Fridman Podcast 114",0.43486320972442627
+How does robot control work?,2,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.36426669359207153
+How does robot control work?,3,YFjfBk8HI5o,OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast 491,0.353685587644577
+How does robot control work?,4,YDjOS0VHEr4,Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication | Lex Fridman Podcast 380,0.3351832628250122
+How does robot control work?,5,ZFntEFXKDHM,"Kate Darling: Social Robots, Ethics, Privacy and the Future of MIT | Lex Fridman Podcast 329",0.33034569025039673
+What is robot perception?,1,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.4320424199104309
+What is robot perception?,2,ZFntEFXKDHM,"Kate Darling: Social Robots, Ethics, Privacy and the Future of MIT | Lex Fridman Podcast 329",0.4208140969276428
+What is robot perception?,3,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.3957493305206299
+What is robot perception?,4,Qp0rCU49lMs,Michael Levin: Hidden Reality of Alien Intelligence &amp; Biological Life | Lex Fridman Podcast 486,0.37345123291015625
+What is robot perception?,5,reYdQYZ9Rj4,Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth | Lex Fridman Podcast 293,0.36884933710098267
+How do robots interact with humans?,1,ZFntEFXKDHM,"Kate Darling: Social Robots, Ethics, Privacy and the Future of MIT | Lex Fridman Podcast 329",0.464106947183609
+How do robots interact with humans?,2,Qp0rCU49lMs,Michael Levin: Hidden Reality of Alien Intelligence &amp; Biological Life | Lex Fridman Podcast 486,0.38007429242134094
+How do robots interact with humans?,3,YFjfBk8HI5o,OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast 491,0.36259955167770386
+How do robots interact with humans?,4,nre0QT9LN6w,Rodney Brooks: Robotics | Lex Fridman Podcast 217,0.35955050587654114
+How do robots interact with humans?,5,A22Ej6kb2wo,"Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch | Lex Fridman Podcast 114",0.3530150055885315
+What are challenges in robotics?,1,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.42224666476249695
+What are challenges in robotics?,2,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.42103391885757446
+What are challenges in robotics?,3,P6prRXkI5HM,Dmitri Dolgov: Waymo and the Future of Self-Driving Cars | Lex Fridman Podcast 147,0.40882790088653564
+What are challenges in robotics?,4,5VnbBCm_ZyQ,Marc Raibert: Boston Dynamics and the Future of Robotics | Lex Fridman Podcast 412,0.3740358352661133
+What are challenges in robotics?,5,A22Ej6kb2wo,"Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch | Lex Fridman Podcast 114",0.3662768602371216
+What is reinforcement learning in robotics?,1,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.40850430727005005
+What is reinforcement learning in robotics?,2,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.38882243633270264
+What is reinforcement learning in robotics?,3,kxi-_TT_-Nc,Sergey Levine: Robotics and Machine Learning | Lex Fridman Podcast 108,0.3862757086753845
+What is reinforcement learning in robotics?,4,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.3857533633708954
+What is reinforcement learning in robotics?,5,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.38412779569625854
+How do robots navigate environments?,1,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.45277607440948486
+How do robots navigate environments?,2,ZFntEFXKDHM,"Kate Darling: Social Robots, Ethics, Privacy and the Future of MIT | Lex Fridman Podcast 329",0.33781808614730835
+How do robots navigate environments?,3,P6prRXkI5HM,Dmitri Dolgov: Waymo and the Future of Self-Driving Cars | Lex Fridman Podcast 147,0.33599406480789185
+How do robots navigate environments?,4,YFjfBk8HI5o,OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast 491,0.3254888653755188
+How do robots navigate environments?,5,A22Ej6kb2wo,"Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch | Lex Fridman Podcast 114",0.2878718376159668
+What is the best programming language for AI?,1,uTxRF5ag27A,Bjarne Stroustrup: C++ | Lex Fridman Podcast 48,0.5610092878341675
+What is the best programming language for AI?,2,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.4927036464214325
+What is the best programming language for AI?,3,IT__Nrr3PNI,"James Gosling: Java, JVM, Emacs, and the Early Days of Computing | Lex Fridman Podcast 126",0.47394293546676636
+What is the best programming language for AI?,4,oFfVt3S51T4,Cursor Team: Future of Programming with AI | Lex Fridman Podcast 447,0.44031569361686707
+What is the best programming language for AI?,5,U5OD8MjYnOM,"Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI | Lex Fridman Podcast 215",0.4015848636627197
+How do compilers work?,1,uTxRF5ag27A,Bjarne Stroustrup: C++ | Lex Fridman Podcast 48,0.32463687658309937
+How do compilers work?,2,tNZnLkRBYA8,"ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast 461",0.2944493293762207
+How do compilers work?,3,EE1R8FYUJm0,"Donald Knuth: Programming, Algorithms, Hard Problems &amp; the Game of Life | Lex Fridman Podcast 219",0.29411759972572327
+How do compilers work?,4,oFfVt3S51T4,Cursor Team: Future of Programming with AI | Lex Fridman Podcast 447,0.29111945629119873
+How do compilers work?,5,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.27591946721076965
+What is low level programming?,1,tNZnLkRBYA8,"ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast 461",0.42758113145828247
+What is low level programming?,2,IT__Nrr3PNI,"James Gosling: Java, JVM, Emacs, and the Early Days of Computing | Lex Fridman Podcast 126",0.3399527370929718
+What is low level programming?,3,EE1R8FYUJm0,"Donald Knuth: Programming, Algorithms, Hard Problems &amp; the Game of Life | Lex Fridman Podcast 219",0.3353959321975708
+What is low level programming?,4,gFEE3w7F0ww,"Travis Oliphant: NumPy, SciPy, Anaconda, Python &amp; Scientific Programming | Lex Fridman Podcast 224",0.3259935975074768
+What is low level programming?,5,uTxRF5ag27A,Bjarne Stroustrup: C++ | Lex Fridman Podcast 48,0.31508302688598633
+What is systems programming?,1,PdE-waSx-d8,"Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast 376",0.4019053876399994
+What is systems programming?,2,tNZnLkRBYA8,"ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast 461",0.3951237201690674
+What is systems programming?,3,IT__Nrr3PNI,"James Gosling: Java, JVM, Emacs, and the Early Days of Computing | Lex Fridman Podcast 126",0.37729936838150024
+What is systems programming?,4,HsLgZzgpz9Y,"Dave Plummer: Programming, Autism, and Old-School Microsoft Stories | Lex Fridman Podcast 479",0.3610241711139679
+What is systems programming?,5,EE1R8FYUJm0,"Donald Knuth: Programming, Algorithms, Hard Problems &amp; the Game of Life | Lex Fridman Podcast 219",0.3449949026107788
+What is memory management in programming?,1,4iuepdI3wCU,"Charan Ranganath: Human Memory, Imagination, Deja Vu, and False Memories | Lex Fridman Podcast 430",0.37473779916763306
+What is memory management in programming?,2,tNZnLkRBYA8,"ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast 461",0.3698106110095978
+What is memory management in programming?,3,IT__Nrr3PNI,"James Gosling: Java, JVM, Emacs, and the Early Days of Computing | Lex Fridman Podcast 126",0.32053515315055847
+What is memory management in programming?,4,EE1R8FYUJm0,"Donald Knuth: Programming, Algorithms, Hard Problems &amp; the Game of Life | Lex Fridman Podcast 219",0.2934598922729492
+What is memory management in programming?,5,oFfVt3S51T4,Cursor Team: Future of Programming with AI | Lex Fridman Podcast 447,0.28817233443260193
+What are distributed systems?,1,6z1JwZbX4dQ,"Po-Shen Loh: Mathematics, Math Olympiad, Combinatorics &amp; Contact Tracing | Lex Fridman Podcast 183",0.2682810425758362
+What are distributed systems?,2,Qp0rCU49lMs,Michael Levin: Hidden Reality of Alien Intelligence &amp; Biological Life | Lex Fridman Podcast 486,0.2661917805671692
+What are distributed systems?,3,YDjOS0VHEr4,Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication | Lex Fridman Podcast 380,0.24369962513446808
+What are distributed systems?,4,PdE-waSx-d8,"Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast 376",0.240942120552063
+What are distributed systems?,5,1YbcB6b4A2U,Bryan Johnson: Kernel Brain-Computer Interfaces | Lex Fridman Podcast 186,0.23889854550361633
+What is parallel computing?,1,IT__Nrr3PNI,"James Gosling: Java, JVM, Emacs, and the Early Days of Computing | Lex Fridman Podcast 126",0.463760107755661
+What is parallel computing?,2,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.3333244323730469
+What is parallel computing?,3,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.29255926609039307
+What is parallel computing?,4,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.28713259100914
+What is parallel computing?,5,M95m2EFb7IQ,"Ray Dalio: Principles, the Economic Machine, AI &amp; the Arc of Life | Lex Fridman Podcast 54",0.28199416399002075
+What is GPU computing?,1,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.32724708318710327
+What is GPU computing?,2,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.31764674186706543
+What is GPU computing?,3,fjIhFzTUB9I,"Bjarne Stroustrup: Deep Learning, Software 2.0, and Fuzzy Programming",0.2809726595878601
+What is GPU computing?,4,gFEE3w7F0ww,"Travis Oliphant: NumPy, SciPy, Anaconda, Python &amp; Scientific Programming | Lex Fridman Podcast 224",0.2742934823036194
+What is GPU computing?,5,IT__Nrr3PNI,"James Gosling: Java, JVM, Emacs, and the Early Days of Computing | Lex Fridman Podcast 126",0.2661428451538086
+What is the role of Linux in programming?,1,tNZnLkRBYA8,"ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast 461",0.368036687374115
+What is the role of Linux in programming?,2,oFfVt3S51T4,Cursor Team: Future of Programming with AI | Lex Fridman Podcast 447,0.3330502510070801
+What is the role of Linux in programming?,3,IT__Nrr3PNI,"James Gosling: Java, JVM, Emacs, and the Early Days of Computing | Lex Fridman Podcast 126",0.31919151544570923
+What is the role of Linux in programming?,4,PdE-waSx-d8,"Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast 376",0.302660197019577
+What is the role of Linux in programming?,5,gFEE3w7F0ww,"Travis Oliphant: NumPy, SciPy, Anaconda, Python &amp; Scientific Programming | Lex Fridman Podcast 224",0.2874656021595001
+What is software engineering best practice?,1,oFfVt3S51T4,Cursor Team: Future of Programming with AI | Lex Fridman Podcast 447,0.30915966629981995
+What is software engineering best practice?,2,tNZnLkRBYA8,"ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast 461",0.25753769278526306
+What is software engineering best practice?,3,PdE-waSx-d8,"Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast 376",0.2456880807876587
+What is software engineering best practice?,4,X0-SXS6zdEQ,"Peter Wang: Python and the Source Code of Humans, Computers, and Reality | Lex Fridman Podcast 250",0.24103344976902008
+What is software engineering best practice?,5,L-RuvUkcyJI,"Michael Mina: Rapid Testing, Viruses, and the Engineering Mindset | Lex Fridman Podcast 146",0.23389080166816711
+What is consciousness?,1,BCdV6BMMpOo,"Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind | Lex Fridman Podcast 261",0.5413738489151001
+What is consciousness?,2,Qp0rCU49lMs,Michael Levin: Hidden Reality of Alien Intelligence &amp; Biological Life | Lex Fridman Podcast 486,0.4158026874065399
+What is consciousness?,3,1YbcB6b4A2U,Bryan Johnson: Kernel Brain-Computer Interfaces | Lex Fridman Podcast 186,0.3494521379470825
+What is consciousness?,4,F0UjC6wfqmc,Sean Carroll: Perception vs Reality,0.3380911350250244
+What is consciousness?,5,oYQh1ZNkC70,Brian Muraresku: The Secret History of Psychedelics | Lex Fridman Podcast 211,0.33070266246795654
+Can machines think?,1,6CTJMx64Vbw,Elon Musk: Understanding the Human Brain at Neuralink,0.4651021957397461
+Can machines think?,2,BCdV6BMMpOo,"Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind | Lex Fridman Podcast 261",0.44236767292022705
+Can machines think?,3,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.4362766444683075
+Can machines think?,4,1YbcB6b4A2U,Bryan Johnson: Kernel Brain-Computer Interfaces | Lex Fridman Podcast 186,0.425060510635376
+Can machines think?,5,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.3902336657047272
+What is the philosophy of artificial intelligence?,1,M95m2EFb7IQ,"Ray Dalio: Principles, the Economic Machine, AI &amp; the Arc of Life | Lex Fridman Podcast 54",0.5000758171081543
+What is the philosophy of artificial intelligence?,2,3wMKoSRbGVs,Douglas Lenat: Cyc and the Quest to Solve Common Sense Reasoning in AI | Lex Fridman Podcast 221,0.48608455061912537
+What is the philosophy of artificial intelligence?,3,ABbDB6xri8o,Tesla AI Day Highlights | Lex Fridman,0.4726017713546753
+What is the philosophy of artificial intelligence?,4,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.46209517121315
+What is the philosophy of artificial intelligence?,5,wMavKrA-4do,Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast 373,0.4586382806301117
+What is the meaning of intelligence?,1,uTCc2-1tbBQ,Garry Nolan: UFOs and Aliens | Lex Fridman Podcast 262,0.43518880009651184
+What is the meaning of intelligence?,2,hppbxV9C63g,"Richard Haier: IQ Tests, Human Intelligence, and Group Differences | Lex Fridman Podcast 302",0.39912766218185425
+What is the meaning of intelligence?,3,3wMKoSRbGVs,Douglas Lenat: Cyc and the Quest to Solve Common Sense Reasoning in AI | Lex Fridman Podcast 221,0.3806677758693695
+What is the meaning of intelligence?,4,NNr6gPelJ3E,Roman Yampolskiy: Dangers of Superintelligent AI | Lex Fridman Podcast 431,0.37275299429893494
+What is the meaning of intelligence?,5,wMavKrA-4do,Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast 373,0.3617112338542938
+What is the nature of human cognition?,1,Qp0rCU49lMs,Michael Levin: Hidden Reality of Alien Intelligence &amp; Biological Life | Lex Fridman Podcast 486,0.5287752151489258
+What is the nature of human cognition?,2,F0UjC6wfqmc,Sean Carroll: Perception vs Reality,0.49279606342315674
+What is the nature of human cognition?,3,6CTJMx64Vbw,Elon Musk: Understanding the Human Brain at Neuralink,0.4688588082790375
+What is the nature of human cognition?,4,3wMKoSRbGVs,Douglas Lenat: Cyc and the Quest to Solve Common Sense Reasoning in AI | Lex Fridman Podcast 221,0.4342826008796692
+What is the nature of human cognition?,5,BCdV6BMMpOo,"Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind | Lex Fridman Podcast 261",0.4155873954296112
+What is the future of human civilization?,1,uZN5xjoS6TU,David Kipping: Alien Civilizations and Habitable Worlds | Lex Fridman Podcast 355,0.552202582359314
+What is the future of human civilization?,2,ugvHCXCOmm4,"Dario Amodei: Anthropic CEO on Claude, AGI &amp; the Future of AI &amp; Humanity | Lex Fridman Podcast 452",0.5283505916595459
+What is the future of human civilization?,3,UbOjufRmpq4,Advice for beginner programmers,0.4921509623527527
+What is the future of human civilization?,4,yhZAXXI83-4,Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life | Lex Fridman Podcast 455,0.4779614806175232
+What is the future of human civilization?,5,NNr6gPelJ3E,Roman Yampolskiy: Dangers of Superintelligent AI | Lex Fridman Podcast 431,0.47455570101737976
+What is the relationship between AI and humanity?,1,wMavKrA-4do,Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast 373,0.5685996413230896
+What is the relationship between AI and humanity?,2,ZFntEFXKDHM,"Kate Darling: Social Robots, Ethics, Privacy and the Future of MIT | Lex Fridman Podcast 329",0.4932219982147217
+What is the relationship between AI and humanity?,3,5t1vTLU7s40,"Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast 416",0.47353339195251465
+What is the relationship between AI and humanity?,4,NNr6gPelJ3E,Roman Yampolskiy: Dangers of Superintelligent AI | Lex Fridman Podcast 431,0.4658131003379822
+What is the relationship between AI and humanity?,5,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.46390435099601746
+What is the role of technology in society?,1,UbOjufRmpq4,Advice for beginner programmers,0.344055712223053
+What is the role of technology in society?,2,tyrPMVMb-Uw,We exist inside the story that the brain tells itself (Joscha Bach) | AI Podcast Clips,0.30743515491485596
+What is the role of technology in society?,3,ugvHCXCOmm4,"Dario Amodei: Anthropic CEO on Claude, AGI &amp; the Future of AI &amp; Humanity | Lex Fridman Podcast 452",0.29899537563323975
+What is the role of technology in society?,4,jhKZIq3SlYE,David Sinclair: Extending the Human Lifespan Beyond 100 Years | Lex Fridman Podcast 189,0.291364848613739
+What is the role of technology in society?,5,5t1vTLU7s40,"Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast 416",0.2880702614784241
+What is scientific discovery?,1,J48bm21q8_A,Barry Barish: Gravitational Waves and the Most Precise Device Ever Built | Lex Fridman Podcast 213,0.3571509122848511
+What is scientific discovery?,2,Osh0-J3T2nY,"Edward Frenkel: Reality is a Paradox - Mathematics, Physics, Truth &amp; Love | Lex Fridman Podcast 370",0.35081005096435547
+What is scientific discovery?,3,DKyzcbNr8WE,John Hopfield: Physics View of the Mind and Neurobiology | Lex Fridman Podcast 76,0.31914469599723816
+What is scientific discovery?,4,-tDQ74I3Ovs,Sara Walker: The Origin of Life on Earth and Alien Worlds | Lex Fridman Podcast 198,0.31000861525535583
+What is scientific discovery?,5,nhGwJLXzHs8,"Brian Keating: Cosmology, Astrophysics, Aliens &amp; Losing the Nobel Prize | Lex Fridman Podcast 257",0.30901259183883667
+What is the role of mathematics in AI?,1,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.47716277837753296
+What is the role of mathematics in AI?,2,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.4177165627479553
+What is the role of mathematics in AI?,3,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.4035971164703369
+What is the role of mathematics in AI?,4,YPe5OP7Clv4,Gilbert Strang: Singular Value Decomposition,0.40118709206581116
+What is the role of mathematics in AI?,5,PdE-waSx-d8,"Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast 376",0.40064042806625366
+How do language models understand text?,1,MRcrJHxhWMY,Noam Chomsky: Deepest Property of Language,0.3739682734012604
+How do language models understand text?,2,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.27787673473358154
+How do language models understand text?,3,xoVibFYi1Gs,Language or Vision - What&39;s Harder? (Ilya Sutskever) | AI Podcast Clips,0.2709142863750458
+How do language models understand text?,4,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.2590324282646179
+How do language models understand text?,5,U5OD8MjYnOM,"Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI | Lex Fridman Podcast 215",0.25200343132019043
+What is the scaling law in AI?,1,_1f-o0nqpEI,"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast 459",0.3840435743331909
+What is the scaling law in AI?,2,wMavKrA-4do,Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast 373,0.36969050765037537
+What is the scaling law in AI?,3,M95m2EFb7IQ,"Ray Dalio: Principles, the Economic Machine, AI &amp; the Arc of Life | Lex Fridman Podcast 54",0.3591676354408264
+What is the scaling law in AI?,4,cdiD-9MMpb0,"Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast 333",0.3588063716888428
+What is the scaling law in AI?,5,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.34553736448287964
+What are multimodal models?,1,oFtjKbXKqbg,"Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life | Lex Fridman Podcast 440",0.36914271116256714
+What are multimodal models?,2,-HzgcbRXUK8,"Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast 475",0.3646495044231415
+What are multimodal models?,3,Qp0rCU49lMs,Michael Levin: Hidden Reality of Alien Intelligence &amp; Biological Life | Lex Fridman Podcast 486,0.3528972268104553
+What are multimodal models?,4,YDjOS0VHEr4,Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication | Lex Fridman Podcast 380,0.3211420178413391
+What are multimodal models?,5,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.32022231817245483
+How does ChatGPT work?,1,qjPH9njnaVU,"Pavel Durov: Telegram, Freedom, Censorship, Money, Power &amp; Human Nature | Lex Fridman Podcast 482",0.2522338330745697
+How does ChatGPT work?,2,PdE-waSx-d8,"Stephen Wolfram: ChatGPT and the Nature of Truth, Reality &amp; Computation | Lex Fridman Podcast 376",0.2202417254447937
+How does ChatGPT work?,3,L-RuvUkcyJI,"Michael Mina: Rapid Testing, Viruses, and the Engineering Mindset | Lex Fridman Podcast 146",0.1956605613231659
+How does ChatGPT work?,4,b268x2kzefY,Lex Fridman tests Google XR glasses,0.19451037049293518
+How does ChatGPT work?,5,tNZnLkRBYA8,"ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast 461",0.19437426328659058
+What is emergent behavior in AI?,1,e77NkSjnyH4,"AlphaZero and Self Play (David Silver, DeepMind) | AI Podcast Clips",0.474196195602417
+What is emergent behavior in AI?,2,1soLVufJWLU,Elon Musk: Perception vs Control - What&39;s Harder?,0.41099679470062256
+What is emergent behavior in AI?,3,wMavKrA-4do,Manolis Kellis: Evolution of Human Civilization and Superintelligent AI | Lex Fridman Podcast 373,0.4090322256088257
+What is emergent behavior in AI?,4,1k37OcjH7BM,Andrew Ng: Advice on Getting Started in Deep Learning | AI Podcast Clips,0.40576937794685364
+What is emergent behavior in AI?,5,EV7WhVT270Q,"State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast 490",0.39455434679985046

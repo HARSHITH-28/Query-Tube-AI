@@ -1,0 +1,7 @@
+Model,Metric,Top-1 Recall,Top-3 Recall,Top-5 Recall,Average Rank
+all-MiniLM-L6-v2,cosine,0.0,0.1,0.2,4.0
+all-MiniLM-L6-v2,dot,0.0,0.1,0.2,4.0
+all-mpnet-base-v2,cosine,0.1,0.1,0.2,3.0
+all-mpnet-base-v2,dot,0.1,0.1,0.2,3.0
+multi-qa-MiniLM-L6-cos-v1,cosine,0.1,0.1,0.1,1.0
+multi-qa-MiniLM-L6-cos-v1,dot,0.1,0.1,0.1,1.0
