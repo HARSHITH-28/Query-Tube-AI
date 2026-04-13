@@ -1,4 +1,5 @@
 aiobotocore @ file:///C:/b/abs_a0zxrsvpwx/croot/aiobotocore_1714464454692/work
+aiofiles==24.1.0
 aiohappyeyeballs @ file:///C:/b/abs_b505trsapr/croot/aiohappyeyeballs_1725434036096/work
 aiohttp @ file:///C:/b/abs_13j6efxjb7/croot/aiohttp_1725529348885/work
 aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
@@ -40,7 +41,7 @@ bokeh @ file:///C:/b/abs_b40zi4jp_s/croot/bokeh_1727914495891/work
 boltons @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/boltons_1699480450092/work
 botocore @ file:///C:/b/abs_0dkeqep0ox/croot/botocore_1714460586193/work
 Bottleneck @ file:///C:/b/abs_f7un855idq/croot/bottleneck_1709069969633/work
-Brotli @ file:///C:/b/abs_3d36mno480/croot/brotli-split_1714483178642/work
+brotli==1.2.0
 build==1.3.0
 cachetools @ file:///C:/b/abs_792zbtc0ua/croot/cachetools_1713977157919/work
 certifi @ file:///C:/b/abs_1fw_exq1si/croot/certifi_1725551736618/work/certifi
@@ -90,6 +91,7 @@ executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 faiss-cpu==1.12.0
 fastapi==0.121.0
 fastjsonschema @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/python-fastjsonschema_1699475134300/work
+ffmpy==1.0.0
 filelock @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/filelock_1701807523603/work
 flake8 @ file:///C:/b/abs_caud66drfv/croot/flake8_1708965316778/work
 Flask @ file:///C:/b/abs_f9w7doyu0h/croot/flask_1716545924884/work
@@ -104,11 +106,15 @@ gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
 GitPython @ file:///C:/b/abs_2bkslnqz4i/croot/gitpython_1720455044865/work
 google-auth==2.43.0
 googleapis-common-protos==1.72.0
+gradio==6.11.0
+gradio_client==2.4.0
 greenlet @ file:///C:/b/abs_a6c75ie0bc/croot/greenlet_1702060012174/work
+groovy==0.1.2
 grpcio==1.76.0
 h11 @ file:///C:/b/abs_1czwoyexjf/croot/h11_1706652332846/work
 h5py @ file:///C:/b/abs_c4ha_1xv14/croot/h5py_1715094776210/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
+hf-gradio==0.3.0
 hf-xet==1.2.0
 holoviews @ file:///C:/b/abs_5f962ukrbq/croot/holoviews_1720534381286/work
 httpcore @ file:///C:/b/abs_55n7g233bw/croot/httpcore_1706728507241/work
@@ -279,6 +285,7 @@ pydantic_core==2.14.6
 pydeck @ file:///C:/b/abs_ad9p880wi1/croot/pydeck_1706194121328/work
 PyDispatcher @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pydispatcher_1699543033434/work
 pydocstyle @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pydocstyle_1699495611004/work
+pydub==0.25.1
 pyerfa @ file:///C:/b/abs_477fivsfe8/croot/pyerfa_1717700768172/work
 pyflakes @ file:///C:/b/abs_b6t1aazq2e/croot/pyflakes_1708963020907/work
 Pygments @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pygments_1699474141968/work
@@ -310,6 +317,7 @@ python-language-server==0.36.2
 python-lsp-black @ file:///C:/b/abs_5dhen_5vga/croot/python-lsp-black_1709232962589/work
 python-lsp-jsonrpc @ file:///croot/python-lsp-jsonrpc_1708962872556/work
 python-lsp-server @ file:///C:/b/abs_2cdyzvcq4z/croot/python-lsp-server_1708971796975/work
+python-multipart==0.0.22
 python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
 pytoolconfig @ file:///C:/b/abs_f2j_xsvrpn/croot/pytoolconfig_1701728751207/work
 pytz @ file:///C:/b/abs_6ap4tsz1ox/croot/pytz_1713974360290/work
@@ -343,12 +351,14 @@ ruamel-yaml-conda @ file:///C:/Users/dev-admin/perseverance-python-buildout/croo
 ruamel.yaml @ file:///C:/b/abs_0cunwx_ww6/croot/ruamel.yaml_1727980181547/work
 ruamel.yaml.clib @ file:///C:/b/abs_5fk8zi6n09/croot/ruamel.yaml.clib_1727769837359/work
 s3fs @ file:///C:/b/abs_ddtjx92ddb/croot/s3fs_1724924140381/work
+safehttpx==0.1.7
 safetensors==0.6.2
 scikit-image @ file:///C:/b/abs_85dh_ywewv/croot/scikit-image_1726762076100/work
 scikit-learn @ file:///C:/b/abs_aajc9f7v6r/croot/scikit-learn_1722067652693/work/dist/scikit_learn-1.5.1-cp312-cp312-win_amd64.whl#sha256=96ed6defb86c154d2ff360afdbf0c37c33c4c729d4a15c9d8ada0b70fd817816
 scipy @ file:///C:/b/abs_efv75hqhju/croot/scipy_1717521501389/work/dist/scipy-1.13.1-cp312-cp312-win_amd64.whl#sha256=b29dba691773ea983857b31cad894f31623348583937b6f03783facfd7abc734
 Scrapy @ file:///C:/b/abs_b407wrcuij/croot/scrapy_1708714755460/work
 seaborn @ file:///C:/b/abs_ca2mi1rgmn/croot/seaborn_1718303534355/work
+semantic-version==2.10.0
 semver @ file:///C:/b/abs_4bkbn3v6jp/croot/semver_1709243682483/work
 Send2Trash @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/send2trash_1701806400767/work
 sentence-transformers==5.1.2
@@ -393,7 +403,7 @@ tldextract @ file:///C:/b/abs_34gknp7o18/croot/tldextract_1723064394448/work
 tokenizers==0.22.1
 toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 tomli @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/tomli_1699472528897/work
-tomlkit @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/tomlkit_1699475633229/work
+tomlkit==0.13.3
 toolz @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/toolz_1699474617784/work
 torch==2.9.1
 tornado @ file:///C:/b/abs_7bua0304mj/croot/tornado_1718740122405/work
